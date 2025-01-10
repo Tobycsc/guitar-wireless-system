@@ -15,3 +15,20 @@ ap网页调整参数配置
 oled屏显示状态
 主从机切换
 多通道共用
+
+
+
+第一版
+RX
+锂电池充放电管理 √
+typec供电 √
+typec usb esp 
+
+音频芯片输入 
+音频解码至esp i2s
+
+esp接收充电信息
+esp预留oled通信
+esp供电 √
+esp控制wm8978
+
